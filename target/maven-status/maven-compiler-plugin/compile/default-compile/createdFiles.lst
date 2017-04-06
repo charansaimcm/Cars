@@ -1,0 +1,10 @@
+com\niit\cars\model\BillingAddress.class
+com\niit\cars\controller\HomeController.class
+com\niit\cars\model\Authorities.class
+com\niit\cars\model\CartItem.class
+com\niit\cars\model\Customer.class
+com\niit\cars\model\ShippingAddress.class
+com\niit\cars\model\CustomerOrder.class
+com\niit\cars\model\Product.class
+com\niit\cars\model\Users.class
+com\niit\cars\model\Cart.class
